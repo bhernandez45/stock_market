@@ -1,0 +1,66 @@
+﻿Ticker,CoName,Sector
+^IXIC,NASDAQ,Composite
+AAL,American Airlines,Industrials
+AAPL,Apple,Technology
+ABBV,NASDAQ,Composite
+AMZN,Amazon,Retail
+APRN,Blue Apron,Meal Delivery
+AXP,,
+BAC,,
+BTC-USD,,
+CHTR,,
+CSCO,,
+CWH,,
+DAL,,
+DELL,,
+DIS,Disney,Media/Entertainment
+DOW,,
+EURUSD=X,,
+F*CL.NYM,,
+FB,,
+FDX,,
+FOX,,
+GC=F,,
+GE,,
+GIS,,
+GM,,
+GOOG,Google (C ),Technology
+GOOGL,Google (A),Technology
+GRUB,,
+GWPH,,
+HL,Hecla Mining,Gold
+INO,,
+JNJ,,
+JPM,,
+JWN,,
+KHC,,
+KO,,
+LUV,,
+MJ,,
+MSFT,,
+NFLX,Netflix,Streaming
+NGG,,
+NKE,,
+NYBOT,,
+NYT,,
+RIGL,,
+SBUX,,
+SCCO,,
+SLV,,
+SNE,,
+SONO,,
+SPOT,,
+SPY,,
+TEVA,,
+TGT,,
+TSLA,Tesla,Electric Auto
+TWTR,Twitter,Social Media
+UA,United Airlines,Transportation
+UAL,,
+UPS,,
+VFF,,
+VZ,,
+WFC,,
+WMT,,
+YOLO,,
+ZM,,
