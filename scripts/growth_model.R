@@ -16,10 +16,10 @@ options("getSymbols.yahoo.warning"=FALSE)
 # loading tickers to fetch
 ticker_dataset = read.csv("https://raw.githubusercontent.com/bhernandez45/stock_market/master/data_sets/other_data/tickers.csv")
 
-####HELP!!!!!!
+####HHHHHEEEEEEEEEELLLLPPPPPPPPPPPPPPPPPP!!!!!!!!!!!!!!!!!!!!!
 ##trying to load in ticker data and convert to string formatting like "AAPL","TSLA"...etc
 
-tickers_rows = top_n(as.data.frame(ticker_dataset$Ticker),10)
+tickers_rows = as.data.frame(ticker_dataset$Ticker)
 
 test_prices <- tq_get(tickers_rows,
                       from = "2019-01-01",
@@ -28,8 +28,6 @@ test_prices <- tq_get(tickers_rows,
                       )
                      
                      
-                     
-
 tickers = c("AAPL", "NFLX", "AMZN", "K", "O")
 
 prices <- tq_get(tickers,
