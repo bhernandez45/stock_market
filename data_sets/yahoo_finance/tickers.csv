@@ -1,87 +1,87 @@
-﻿Ticker,CoName,Sector,Category,Subcategory,User
-^IXIC,NASDAQ,Composite,,,
-AAL,American Airlines,Industrials,,,
-AAPL,Apple,Technology,,,
-ABBV,NASDAQ,Composite,,,
-AMZN,Amazon,Retail,,,
-APRN,Blue Apron,Meal Delivery,,,
-AXP,,,,,
-BAC,,,,,
-BTC-USD,,,,,
-CHTR,,,,,
-CSCO,,,,,
-CWH,,,,,
-DAL,,,,,
-DELL,,,,,
-DIS,Disney,Media/Entertainment,,,
-DOW,,,,,
-EURUSD=X,,,,,
-F*CL.NYM,,,,,
-FB,,,,,
-FDX,,,,,
-FOX,,,,,
-GC=F,,,,,
-GE,,,,,
-GIS,,,,,
-GM,,,,,
-GOOG,Google (C ),Technology,,,
-GOOGL,Google (A),Technology,,,
-GRUB,,,,,
-GWPH,,,,,
-HL,Hecla Mining,Gold,,,
-INO,,,,,
-JNJ,,,,,
-JPM,,,,,
-JWN,,,,,
-KHC,,,,,
-KO,,,,,
-LUV,,,,,
-MJ,,,,,
-MSFT,,,,,
-NFLX,Netflix,Streaming,,,
-NGG,,,,,
-NKE,,,,,
-NYBOT,,,,,
-NYT,,,,,
-RIGL,,,,,
-SBUX,,,,,
-SCCO,,,,,
-SLV,,,,,
-SNE,,,,,
-SONO,,,,,
-SPOT,,,,,
-SPY,,,,,
-TEVA,,,,,
-TGT,,,,,
-TSLA,Tesla,Electric Auto,,,
-TWTR,Twitter,Social Media,,,
-UA,United Airlines,Transportation,,,
-UAL,,,,,
-UPS,,,,,
-VFF,,,,,
-VZ,,,,,
-WFC,,,,,
-WMT,,,,,
-YOLO,,,,,
-ZM,,,,,
-MSFT,Microsoft,Technology,,,Bryan
-AAPL,Apple,Technology,,,Bryan
-UAL,United Airlines,Transportation,,,Bryan
-AAL,American Airlines,Transportation,,,Bryan
-USO,US Oil Fund,Commodities ETFs,,,Bryan
-CRM,Microsoft CRM, Technology,,,Bryan
-AMZN,Amazon,Consumer,,,Bryan
-ABNB,Air BNB,Real Estate,,,Bryan
-ROKU,Roku,Media/Entertainment,,,Bryan
-UBER,Uber,Transportation,,,Bryan
-GOOGL,Google,Technology,,,Bryan
-PYPL,PayPal,Technology,,,Bryan
-V,Visa,Financial,,,Bryan
-TSLA,Tesla,Automotive,,,Bryan
-NTDOY,Nintendo,Gaming,,,Bryan
-ATVI,Activision Blizzard,Gaming,,,Bryan
-AVID,,Streaming,,,Bryan
-NLTX,Netflix,Media/Entertainment,,,Bryan
-SNE,Sony,Media/Entertainment,,,Bryan
-BTC,Bitcoin,Cryptocurrencies,,,Bryan
-ETH,Etherum,Cryptocurrencices,,,Bryan
+﻿Ticker,CoName,Sector,Category,Subcategory,User,Investment
+^IXIC,NASDAQ,Composite,,,,
+AAL,American Airlines,Industrials,,,,
+AAPL,Apple,Technology,,,,
+ABBV,NASDAQ,Composite,,,,
+AMZN,Amazon,Retail,,,,
+APRN,Blue Apron,Meal Delivery,,,,
+AXP,,,,,,
+BAC,,,,,,
+BTC-USD,,,,,,
+CHTR,,,,,,
+CSCO,,,,,,
+CWH,,,,,,
+DAL,,,,,,
+DELL,,,,,,
+DIS,Disney,Media/Entertainment,,,,
+DOW,,,,,,
+EURUSD=X,,,,,,
+F*CL.NYM,,,,,,
+FB,,,,,,
+FDX,,,,,,
+FOX,,,,,,
+GC=F,,,,,,
+GE,,,,,,
+GIS,,,,,,
+GM,,,,,,
+GOOG,Google (C ),Technology,,,,
+GOOGL,Google (A),Technology,,,,
+GRUB,,,,,,
+GWPH,,,,,,
+HL,Hecla Mining,Gold,,,,
+INO,,,,,,
+JNJ,,,,,,
+JPM,,,,,,
+JWN,,,,,,
+KHC,,,,,,
+KO,,,,,,
+LUV,,,,,,
+MJ,,,,,,
+MSFT,,,,,,
+NFLX,Netflix,Streaming,,,,
+NGG,,,,,,
+NKE,,,,,,
+NYBOT,,,,,,
+NYT,,,,,,
+RIGL,,,,,,
+SBUX,,,,,,
+SCCO,,,,,,
+SLV,,,,,,
+SNE,,,,,,
+SONO,,,,,,
+SPOT,,,,,,
+SPY,,,,,,
+TEVA,,,,,,
+TGT,,,,,,
+TSLA,Tesla,Electric Auto,,,,
+TWTR,Twitter,Social Media,,,,
+UA,United Airlines,Transportation,,,,
+UAL,,,,,,
+UPS,,,,,,
+VFF,,,,,,
+VZ,,,,,,
+WFC,,,,,,
+WMT,,,,,,
+YOLO,,,,,,
+ZM,,,,,,
+MSFT,Microsoft,Technology,,,Bryan,Robinhood
+AAPL,Apple,Technology,,,Bryan,Robinhood
+UAL,United Airlines,Transportation,,,Bryan,Robinhood
+AAL,American Airlines,Transportation,,,Bryan,Robinhood
+USO,US Oil Fund,Commodities ETFs,,,Bryan,Robinhood
+CRM,Microsoft CRM, Technology,,,Bryan,Robinhood
+AMZN,Amazon,Consumer,,,Bryan,Robinhood
+ABNB,Air BNB,Real Estate,,,Bryan,Robinhood
+ROKU,Roku,Media/Entertainment,,,Bryan,Robinhood
+UBER,Uber,Transportation,,,Bryan,Robinhood
+GOOGL,Google,Technology,,,Bryan,Robinhood
+PYPL,PayPal,Technology,,,Bryan,Robinhood
+V,Visa,Financial,,,Bryan,Robinhood
+TSLA,Tesla,Automotive,,,Bryan,Robinhood
+NTDOY,Nintendo,Gaming,,,Bryan,Robinhood
+ATVI,Activision Blizzard,Gaming,,,Bryan,Robinhood
+AVID,,Streaming,,,Bryan,Robinhood
+NLTX,Netflix,Media/Entertainment,,,Bryan,Robinhood
+SNE,Sony,Media/Entertainment,,,Bryan,Robinhood
+BTC,Bitcoin,Cryptocurrencies,,,Bryan,Robinhood
+ETH,Etherum,Cryptocurrencices,,,Bryan,Robinhood
