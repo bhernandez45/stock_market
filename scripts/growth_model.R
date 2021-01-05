@@ -26,11 +26,11 @@ options("getSymbols.warning4.0"=FALSE)
 options("getSymbols.yahoo.warning"=FALSE)
 
 # loading tickers to fetch
-ticker_dataset = read.csv("https://raw.githubusercontent.com/bhernandez45/stock_market/master/data_sets/other_data/tickers.csv")
+ticker_dataset = read.csv("https://raw.githubusercontent.com/bhernandez45/stock_market/master/data_sets/yahoo_finance/tickers.csv")
 
 # grabbing just the names of the tickers from ticker_dataset
 ticker_dataset[,1]=as.character(ticker_dataset[,1]) # the variable is set to as.factor by default
-tickers=unique(ticker_dataset[,1])  # pulls the unique values from the first column
+tickers=unique(ticker_dataset[,1][ticker_dataset$User == "Bryan"])  # pulls the unique values from the first column
 
 # getting the past ticker information based on dates
 from_date = "2010-01-01"
